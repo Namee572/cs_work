@@ -1,32 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\cs_student\\studentAppApplication\\",
+  "WorkspaceRootPath": "D:\\cs_work\\studentAppApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_student\\studentappapplication\\studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_work\\studentappapplication\\studentappapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_student\\studentappapplication\\studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_student\\studentappapplication\\studentappapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|D:\\cs_work\\studentAppApplication\\studentappapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_student\\studentappapplication\\studentappapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_work\\studentappapplication\\studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|D:\\cs_work\\studentAppApplication\\studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_work\\studentappapplication\\studentappapplication\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|d:\\cs_work\\studentappapplication\\studentappapplication\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|D:\\cs_work\\studentAppApplication\\studentappapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE746CF-1793-411D-8079-F032261A0B6E}|studentAppApplication\\studentAppApplication.csproj|solutionrelative:studentappapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 284,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +46,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form2.cs",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form2.cs",
               "RelativeDocumentMoniker": "studentAppApplication\\Form2.cs",
-              "ToolTip": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form2.cs [\uB514\uC790\uC778]",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form2.cs",
+              "RelativeToolTip": "studentAppApplication\\Form2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:32:54.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "studentAppApplication\\repository\\StudentRepository.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\repository\\StudentRepository.cs",
+              "RelativeToolTip": "studentAppApplication\\repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:27:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\model\\StudentModel.cs",
+              "RelativeDocumentMoniker": "studentAppApplication\\model\\StudentModel.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\model\\StudentModel.cs",
+              "RelativeToolTip": "studentAppApplication\\model\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:25:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "studentAppApplication\\Form1.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.cs",
+              "RelativeToolTip": "studentAppApplication\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:06:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "studentAppApplication\\Form1.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "studentAppApplication\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:05:44.832Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form2.cs",
+              "RelativeDocumentMoniker": "studentAppApplication\\Form2.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form2.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "studentAppApplication\\Form2.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T07:08:12.64Z",
@@ -46,41 +122,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "studentAppApplication\\Form1.Designer.cs",
-              "ToolTip": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.Designer.cs",
+              "ToolTip": "D:\\cs_work\\studentAppApplication\\studentAppApplication\\Form1.Designer.cs",
               "RelativeToolTip": "studentAppApplication\\Form1.Designer.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAswCsAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T07:07:02.957Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.cs",
-              "RelativeDocumentMoniker": "studentAppApplication\\Form1.cs",
-              "ToolTip": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.cs",
-              "RelativeToolTip": "studentAppApplication\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T07:06:53.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.cs",
-              "RelativeDocumentMoniker": "studentAppApplication\\Form1.cs",
-              "ToolTip": "D:\\cs_student\\studentAppApplication\\studentAppApplication\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "studentAppApplication\\Form1.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T07:05:44.832Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

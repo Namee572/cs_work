@@ -9,3 +9,14 @@ D:\cs_student\studentAppApplication\studentAppApplication\obj\Debug\studentAppAp
 D:\cs_student\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.csproj.CoreCompileInputs.cache
 D:\cs_student\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.exe
 D:\cs_student\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.pdb
+D:\cs_work\studentAppApplication\studentAppApplication\bin\Debug\studentAppApplication.exe.config
+D:\cs_work\studentAppApplication\studentAppApplication\bin\Debug\studentAppApplication.exe
+D:\cs_work\studentAppApplication\studentAppApplication\bin\Debug\studentAppApplication.pdb
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.csproj.AssemblyReference.cache
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.Form1.resources
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.Form2.resources
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.Properties.Resources.resources
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.csproj.GenerateResource.cache
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.csproj.CoreCompileInputs.cache
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.exe
+D:\cs_work\studentAppApplication\studentAppApplication\obj\Debug\studentAppApplication.pdb

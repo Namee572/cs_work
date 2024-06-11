@@ -23,5 +23,6 @@ namespace studentAppApplication
             //form2.Show(); // form 클릭하면 계속 새 창
             form2.ShowDialog(); // 한 창만
         }
+
     }
 }

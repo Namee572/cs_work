@@ -1,4 +1,5 @@
-﻿using System;
+﻿using studentAppApplication.repository;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,13 @@ namespace studentAppApplication
         public Form2()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StudentRepository repo = new StudentRepository();
+
+            dataGridView1.DataSource = repo.FindAll();
         }
     }
 }
